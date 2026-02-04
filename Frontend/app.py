@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_BASE_URL = "https://smart-campus-management-system-lcgz.onrender.com"
+API_BASE_URL = "https://smart-campus-management-vgl0.onrender.com/"
 
 st.title("🎓 Smart University Campus Portal")
 
